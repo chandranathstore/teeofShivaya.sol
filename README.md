@@ -19,9 +19,8 @@ Tree of Shivaya (TREE) is a BEP-20 token on the Binance Smart Chain, created to 
 
 ## 🔗 Useful Links
 
-- 🌐 **Website:**https:
-//docs.google.com/document/d/1INOYSeo9uzaTXXcf7064Gjy2tTrAXEMPmxBb8vDj5y8/view
-  
+- 🌐 **Website:**https://docs.google.com/document/d/1INOYSeo9uzaTXXcf7064Gjy2tTrAXEMPmxBb8vDj5y8/view  
+
 - 🐦 **Twitter:**  
   https://x.com/SHIVAYATREE
 
